@@ -46,7 +46,7 @@
 | **[Kasa](https://github.com/Harry-Ob/8projet)** | Rental app: routing, carousel, collapsible panels, 404 handling | React · React Router · Tailwind |
 | **[Sophie Bluel](https://github.com/Harry-Ob/6projet)** | Portfolio with **JWT login** and an admin modal to add or delete projects through a REST API | JavaScript · Fetch · Node API |
 | **[Ohmyfood](https://github.com/Harry-Ob/4projet)** · [live](https://harry-ob.github.io/4projet/code/) | Mobile-first site with **CSS-only animations** (loader, likes, staggered menus) | HTML · Sass |
-| **[Print it!](https://harry-ob.github.io/Print-it-website/)** · [live](https://harry-ob.github.io/) | Data-driven image carousel in plain JavaScript | JavaScript · DOM |
+| **[Print it!](https://github.com/Harry-Ob/Print-it-website)** · [live](https://harry-ob.github.io/Print-it-website/) | Data-driven image carousel in plain JavaScript | JavaScript · DOM |
 
 
 <hr>
