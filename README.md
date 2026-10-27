@@ -1,21 +1,4 @@
-## Hi there 👋
 
-<!--
-**Harry-Ob/Harry-ob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<<<<<<< HEAD
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 <p align="center">
   <a href="mailto:harry.obertan80@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -95,4 +78,3 @@ En parallèle, j'initie des jeunes à l'informatique, à l'IA et aux bases du d�
 📫 [harry.obertan80@gmail.com](mailto:harry.obertan80@gmail.com)
 
 </details>
->>>>>>> b7a76a0 (README : update)
