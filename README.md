@@ -1,7 +1,5 @@
 
-<p align="center">
-  <a href="mailto:harry.obertan80@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+
 
 <hr>
 
@@ -37,7 +35,10 @@
 </p>
 
 <hr>
-
+<p align="center">
+  <a href="mailto:harry.obertan80@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<hr>
 <h2 align="center">🚀 Projects</h2>
 
 | Project | What it shows | Stack |
