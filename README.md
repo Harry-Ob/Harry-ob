@@ -46,7 +46,7 @@
 | **[724 Events](https://github.com/Harry-Ob/10projet)** | Took over a broken React app, found and fixed 7+ bugs, got **46 tests to pass** | React · Jest · RTL |
 | **[Kasa](https://github.com/Harry-Ob/8projet)** | Rental app: routing, carousel, collapsible panels, 404 handling | React · React Router · Tailwind |
 | **[Sophie Bluel](https://github.com/Harry-Ob/6projet)** | Portfolio with **JWT login** and an admin modal to add or delete projects through a REST API | JavaScript · Fetch · Node API |
-| **[Ohmyfood](https://github.com/Harry-Ob/4projet)** · [live](https://harry-ob.github.io/4projet/code/) | Mobile-first site with **CSS-only animations** (loader, likes, staggered menus) | HTML · Sass |
+| **[Ohmyfood](https://github.com/Harry-Ob/4projet)** · [live](https://harry-ob.github.io/Ohmyfood/code/) | Mobile-first site with **CSS-only animations** (loader, likes, staggered menus) | HTML · Sass |
 | **[Print it!](https://github.com/Harry-Ob/Print-it-website)** · [live](https://harry-ob.github.io/Print-it-website/) | Data-driven image carousel in plain JavaScript | JavaScript · DOM |
 
 
